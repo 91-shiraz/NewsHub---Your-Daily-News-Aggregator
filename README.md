@@ -57,3 +57,10 @@
    Run ProjectPlace the project inside your web server root (e.g., /var/www/html/newshub/) and open in browser:
    http://localhost/newshub/index.php
 
+---
+
+## 📌 Example Screenshot
+<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-35-06" src="https://github.com/user-attachments/assets/21b1eb63-341e-4204-b5b7-3f51570f6636" />
+<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-35-06" src="https://github.com/user-attachments/assets/2daa7782-f937-4cba-8949-55f0067633b5" />
+
+---
