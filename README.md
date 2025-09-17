@@ -61,6 +61,6 @@
 
 ## 📌 Example Screenshot
 <img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-35-06" src="https://github.com/user-attachments/assets/21b1eb63-341e-4204-b5b7-3f51570f6636" />
-<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-35-06" src="https://github.com/user-attachments/assets/48c8de8f-1e48-4441-9700-b005a51da438" />
+<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-37-46" src="https://github.com/user-attachments/assets/d34baeae-df20-4b89-a1b7-be52a35e3f77" />
 
 ---
