@@ -60,7 +60,8 @@
 ---
 
 ## 📌 Example Screenshot
-<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-35-06" src="https://github.com/user-attachments/assets/21b1eb63-341e-4204-b5b7-3f51570f6636" />
-<img width="1916" height="1079" alt="Screenshot from 2025-09-18 01-37-46" src="https://github.com/user-attachments/assets/d34baeae-df20-4b89-a1b7-be52a35e3f77" />
+<img width="1898" height="934" alt="Screenshot from 2025-09-18 01-40-04" src="https://github.com/user-attachments/assets/e14beba6-aed1-4b20-8687-395f2bc51e75" />
+<img width="1898" height="934" alt="Screenshot from 2025-09-18 01-40-04" src="https://github.com/user-attachments/assets/a50286c8-d8e9-4379-ae50-647b526e7847" />
+
 
 ---
