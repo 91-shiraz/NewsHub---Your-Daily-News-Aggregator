@@ -1,4 +1,4 @@
-# 📰 NewsHub – Core PHP News Aggregator
+<img width="1898" height="934" alt="Screenshot from 2025-09-18 01-39-34" src="https://github.com/user-attachments/assets/8c32ad3e-b672-462a-92c3-ca22e149052c" /># 📰 NewsHub – Core PHP News Aggregator
 
 **NewsHub** is a lightweight **Core PHP application** that aggregates news from [NewsAPI.org](https://newsapi.org), stores them in **MySQL**, and displays them in a modern, responsive interface with **search** and **category filters**.
 
@@ -61,7 +61,7 @@
 
 ## 📌 Example Screenshot
 <img width="1898" height="934" alt="Screenshot from 2025-09-18 01-40-04" src="https://github.com/user-attachments/assets/e14beba6-aed1-4b20-8687-395f2bc51e75" />
-<img width="1898" height="934" alt="Screenshot from 2025-09-18 01-40-04" src="https://github.com/user-attachments/assets/a50286c8-d8e9-4379-ae50-647b526e7847" />
-
+<img width="1898" height="934" alt="Screenshot from 2025-09-18 01-39-34" src="https://github.com/user-attachments/assets/bd1ef58b-7919-42aa-b7ea-126af2ffaa7d" />
 
 ---
+
